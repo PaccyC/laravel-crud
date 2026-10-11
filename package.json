@@ -2,8 +2,8 @@
   "private": true,
   "type": "module",
   "scripts": {
-    "dev": "node api.js && vite",
-    "build": "node api.js && vite build"
+    "dev": "vite",
+    "build": "vite build"
   },
   "devDependencies": {
     "axios": "^1.1.2",
